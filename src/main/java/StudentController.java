@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 public class StudentController extends HttpServlet {
 
     public void handle(HttpRequest request, HttpResponse response) {
-        
+
     }
 
     private void index() {

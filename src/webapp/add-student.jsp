@@ -6,7 +6,7 @@
   </head>
 
   <body>
-    <h1>Students</h1>
-    <a href="add-student.jsp">Add new</a>
+    <h1>Add student</h1>
+
   </body>
 </html>
