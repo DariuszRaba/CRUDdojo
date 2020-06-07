@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /home/karolina/Desktop/crud-dojo/CRUDdojo/src/main/java/IndexController.java
 /home/karolina/Desktop/crud-dojo/CRUDdojo/src/main/java/Student.java
+=======
+/home/dariusz/projekty/codecool/www/CRUDdojo/src/main/java/StudentController.java
+/home/dariusz/projekty/codecool/www/CRUDdojo/src/main/java/Student.java
+>>>>>>> 885293d352a248d18dc65db52c834d051cfd99ea
